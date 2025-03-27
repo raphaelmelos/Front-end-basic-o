@@ -1,2 +1,2 @@
-# Front-end-basic-o
+# Front-end-basicao
 Studying html and css
